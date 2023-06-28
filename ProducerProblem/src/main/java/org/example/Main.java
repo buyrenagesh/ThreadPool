@@ -1,8 +1,8 @@
 package org.example;
 
 
-import CustomThreadPool.*;
-import CustomThreads.*;
+import com.amiseq.CustomThreadPool;
+import com.amiseq.producerProblem.*;
 
 import java.util.Random;
 

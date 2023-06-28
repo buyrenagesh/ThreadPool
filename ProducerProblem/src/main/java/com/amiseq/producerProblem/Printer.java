@@ -1,4 +1,4 @@
-package CustomThreads;
+package com.amiseq.producerProblem;
 
 import java.util.LinkedList;
 

@@ -1,6 +1,6 @@
-package CustomThreads;
+package com.amiseq.producerProblem;
 
-import CustomThreadPool.*;
+import com.amiseq.CustomThreadPool;
 
 public class Producer extends Thread {
     private final String name;
